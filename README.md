@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning React with asp.net core + signalR
+- 🌱 I’m currently learning ...
 
 
 <!--
